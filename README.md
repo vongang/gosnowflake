@@ -1,4 +1,4 @@
-#Snowflake Go
+# Snowflake Go
 
 # Introduction
 Snowflake Go is a go service which is used to generate Twitter snowflake IDs
